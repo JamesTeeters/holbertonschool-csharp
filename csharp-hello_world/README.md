@@ -1,4 +1,3 @@
-
 C# Basics Project
 This project is designed to teach the basics of C# programming language. By the end of the project, you should be able to explain various concepts and perform tasks related to C# programming.
 
