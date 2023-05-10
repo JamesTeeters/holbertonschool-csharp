@@ -1,1 +1,1 @@
-Console.WriteLine('"Programming is like building a multilingual puzzle')
+﻿Console.WriteLine("Hello, World!");
