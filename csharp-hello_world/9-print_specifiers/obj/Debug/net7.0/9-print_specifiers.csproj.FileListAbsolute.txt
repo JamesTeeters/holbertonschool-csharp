@@ -1,0 +1,15 @@
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-hello_world/9-print_specifiers/bin/Debug/net7.0/9-print_specifiers
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-hello_world/9-print_specifiers/bin/Debug/net7.0/9-print_specifiers.deps.json
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-hello_world/9-print_specifiers/bin/Debug/net7.0/9-print_specifiers.runtimeconfig.json
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-hello_world/9-print_specifiers/bin/Debug/net7.0/9-print_specifiers.dll
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-hello_world/9-print_specifiers/bin/Debug/net7.0/9-print_specifiers.pdb
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-hello_world/9-print_specifiers/obj/Debug/net7.0/9-print_specifiers.csproj.AssemblyReference.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-hello_world/9-print_specifiers/obj/Debug/net7.0/9-print_specifiers.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-hello_world/9-print_specifiers/obj/Debug/net7.0/9-print_specifiers.AssemblyInfoInputs.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-hello_world/9-print_specifiers/obj/Debug/net7.0/9-print_specifiers.AssemblyInfo.cs
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-hello_world/9-print_specifiers/obj/Debug/net7.0/9-print_specifiers.csproj.CoreCompileInputs.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-hello_world/9-print_specifiers/obj/Debug/net7.0/9-print_specifiers.dll
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-hello_world/9-print_specifiers/obj/Debug/net7.0/refint/9-print_specifiers.dll
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-hello_world/9-print_specifiers/obj/Debug/net7.0/9-print_specifiers.pdb
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-hello_world/9-print_specifiers/obj/Debug/net7.0/9-print_specifiers.genruntimeconfig.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-hello_world/9-print_specifiers/obj/Debug/net7.0/ref/9-print_specifiers.dll
