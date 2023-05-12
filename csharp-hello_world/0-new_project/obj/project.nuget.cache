@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "AsKOD3xlO4j5AhNMntloeQWWtl3c9oVYUb4+BuPKZO5BMQF6L8DW8cBFI7FWApt418cH9MFp+4dqBBznUQ7gqQ==",
+  "dgSpecHash": "v8FgMqQyg3LFjT6vtP85jAWisgFnw2R5DVrz0jDkbihgc+GFedAfn/WW+onW2dNcYrasfQ0N/xt3uas899Cplw==",
   "success": true,
   "projectFilePath": "/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-hello_world/0-new_project/0-new_project.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/james/.nuget/packages/microsoft.netframework.referenceassemblies/1.0.3/microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "/home/james/.nuget/packages/microsoft.netframework.referenceassemblies.net20/1.0.3/microsoft.netframework.referenceassemblies.net20.1.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
