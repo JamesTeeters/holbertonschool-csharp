@@ -1,0 +1,15 @@
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/0-print_array/bin/Debug/net7.0/0-print_array
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/0-print_array/bin/Debug/net7.0/0-print_array.deps.json
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/0-print_array/bin/Debug/net7.0/0-print_array.runtimeconfig.json
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/0-print_array/bin/Debug/net7.0/0-print_array.dll
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/0-print_array/bin/Debug/net7.0/0-print_array.pdb
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/0-print_array/obj/Debug/net7.0/0-print_array.csproj.AssemblyReference.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/0-print_array/obj/Debug/net7.0/0-print_array.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/0-print_array/obj/Debug/net7.0/0-print_array.AssemblyInfoInputs.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/0-print_array/obj/Debug/net7.0/0-print_array.AssemblyInfo.cs
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/0-print_array/obj/Debug/net7.0/0-print_array.csproj.CoreCompileInputs.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/0-print_array/obj/Debug/net7.0/0-print_array.dll
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/0-print_array/obj/Debug/net7.0/refint/0-print_array.dll
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/0-print_array/obj/Debug/net7.0/0-print_array.pdb
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/0-print_array/obj/Debug/net7.0/0-print_array.genruntimeconfig.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/0-print_array/obj/Debug/net7.0/ref/0-print_array.dll
