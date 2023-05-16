@@ -1,0 +1,15 @@
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/14-rectangular_array/bin/Debug/net7.0/14-rectangular_array
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/14-rectangular_array/bin/Debug/net7.0/14-rectangular_array.deps.json
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/14-rectangular_array/bin/Debug/net7.0/14-rectangular_array.runtimeconfig.json
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/14-rectangular_array/bin/Debug/net7.0/14-rectangular_array.dll
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/14-rectangular_array/bin/Debug/net7.0/14-rectangular_array.pdb
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/14-rectangular_array/obj/Debug/net7.0/14-rectangular_array.csproj.AssemblyReference.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/14-rectangular_array/obj/Debug/net7.0/14-rectangular_array.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/14-rectangular_array/obj/Debug/net7.0/14-rectangular_array.AssemblyInfoInputs.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/14-rectangular_array/obj/Debug/net7.0/14-rectangular_array.AssemblyInfo.cs
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/14-rectangular_array/obj/Debug/net7.0/14-rectangular_array.csproj.CoreCompileInputs.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/14-rectangular_array/obj/Debug/net7.0/14-rectangular_array.dll
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/14-rectangular_array/obj/Debug/net7.0/refint/14-rectangular_array.dll
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/14-rectangular_array/obj/Debug/net7.0/14-rectangular_array.pdb
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/14-rectangular_array/obj/Debug/net7.0/14-rectangular_array.genruntimeconfig.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/14-rectangular_array/obj/Debug/net7.0/ref/14-rectangular_array.dll
