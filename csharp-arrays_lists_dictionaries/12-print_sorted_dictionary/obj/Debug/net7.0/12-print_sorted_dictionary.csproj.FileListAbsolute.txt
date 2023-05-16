@@ -1,0 +1,15 @@
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/12-print_sorted_dictionary/obj/Debug/net7.0/12-print_sorted_dictionary.csproj.AssemblyReference.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/12-print_sorted_dictionary/obj/Debug/net7.0/12-print_sorted_dictionary.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/12-print_sorted_dictionary/obj/Debug/net7.0/12-print_sorted_dictionary.AssemblyInfoInputs.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/12-print_sorted_dictionary/obj/Debug/net7.0/12-print_sorted_dictionary.AssemblyInfo.cs
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/12-print_sorted_dictionary/obj/Debug/net7.0/12-print_sorted_dictionary.csproj.CoreCompileInputs.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/12-print_sorted_dictionary/bin/Debug/net7.0/12-print_sorted_dictionary
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/12-print_sorted_dictionary/bin/Debug/net7.0/12-print_sorted_dictionary.deps.json
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/12-print_sorted_dictionary/bin/Debug/net7.0/12-print_sorted_dictionary.runtimeconfig.json
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/12-print_sorted_dictionary/bin/Debug/net7.0/12-print_sorted_dictionary.dll
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/12-print_sorted_dictionary/bin/Debug/net7.0/12-print_sorted_dictionary.pdb
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/12-print_sorted_dictionary/obj/Debug/net7.0/12-print_sorted_dictionary.dll
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/12-print_sorted_dictionary/obj/Debug/net7.0/refint/12-print_sorted_dictionary.dll
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/12-print_sorted_dictionary/obj/Debug/net7.0/12-print_sorted_dictionary.pdb
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/12-print_sorted_dictionary/obj/Debug/net7.0/12-print_sorted_dictionary.genruntimeconfig.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/12-print_sorted_dictionary/obj/Debug/net7.0/ref/12-print_sorted_dictionary.dll
