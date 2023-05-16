@@ -1,0 +1,15 @@
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/4-print_list/obj/Debug/net7.0/4-print_list.csproj.AssemblyReference.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/4-print_list/obj/Debug/net7.0/4-print_list.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/4-print_list/obj/Debug/net7.0/4-print_list.AssemblyInfoInputs.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/4-print_list/obj/Debug/net7.0/4-print_list.AssemblyInfo.cs
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/4-print_list/obj/Debug/net7.0/4-print_list.csproj.CoreCompileInputs.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/4-print_list/bin/Debug/net7.0/4-print_list
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/4-print_list/bin/Debug/net7.0/4-print_list.deps.json
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/4-print_list/bin/Debug/net7.0/4-print_list.runtimeconfig.json
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/4-print_list/bin/Debug/net7.0/4-print_list.dll
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/4-print_list/bin/Debug/net7.0/4-print_list.pdb
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/4-print_list/obj/Debug/net7.0/4-print_list.dll
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/4-print_list/obj/Debug/net7.0/refint/4-print_list.dll
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/4-print_list/obj/Debug/net7.0/4-print_list.pdb
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/4-print_list/obj/Debug/net7.0/4-print_list.genruntimeconfig.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/4-print_list/obj/Debug/net7.0/ref/4-print_list.dll
