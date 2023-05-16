@@ -1,0 +1,15 @@
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/15-square_matrix/bin/Debug/net7.0/15-square_matrix
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/15-square_matrix/bin/Debug/net7.0/15-square_matrix.deps.json
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/15-square_matrix/bin/Debug/net7.0/15-square_matrix.runtimeconfig.json
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/15-square_matrix/bin/Debug/net7.0/15-square_matrix.dll
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/15-square_matrix/bin/Debug/net7.0/15-square_matrix.pdb
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/15-square_matrix/obj/Debug/net7.0/15-square_matrix.csproj.AssemblyReference.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/15-square_matrix/obj/Debug/net7.0/15-square_matrix.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/15-square_matrix/obj/Debug/net7.0/15-square_matrix.AssemblyInfoInputs.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/15-square_matrix/obj/Debug/net7.0/15-square_matrix.AssemblyInfo.cs
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/15-square_matrix/obj/Debug/net7.0/15-square_matrix.csproj.CoreCompileInputs.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/15-square_matrix/obj/Debug/net7.0/15-square_matrix.dll
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/15-square_matrix/obj/Debug/net7.0/refint/15-square_matrix.dll
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/15-square_matrix/obj/Debug/net7.0/15-square_matrix.pdb
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/15-square_matrix/obj/Debug/net7.0/15-square_matrix.genruntimeconfig.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-arrays_lists_dictionaries/15-square_matrix/obj/Debug/net7.0/ref/15-square_matrix.dll
