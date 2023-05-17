@@ -1,0 +1,15 @@
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-ifelse_loops_methods/12-fizzbuzz/obj/Debug/net7.0/12-fizzbuzz.csproj.AssemblyReference.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-ifelse_loops_methods/12-fizzbuzz/obj/Debug/net7.0/12-fizzbuzz.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-ifelse_loops_methods/12-fizzbuzz/obj/Debug/net7.0/12-fizzbuzz.AssemblyInfoInputs.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-ifelse_loops_methods/12-fizzbuzz/obj/Debug/net7.0/12-fizzbuzz.AssemblyInfo.cs
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-ifelse_loops_methods/12-fizzbuzz/obj/Debug/net7.0/12-fizzbuzz.csproj.CoreCompileInputs.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-ifelse_loops_methods/12-fizzbuzz/bin/Debug/net7.0/12-fizzbuzz
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-ifelse_loops_methods/12-fizzbuzz/bin/Debug/net7.0/12-fizzbuzz.deps.json
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-ifelse_loops_methods/12-fizzbuzz/bin/Debug/net7.0/12-fizzbuzz.runtimeconfig.json
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-ifelse_loops_methods/12-fizzbuzz/bin/Debug/net7.0/12-fizzbuzz.dll
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-ifelse_loops_methods/12-fizzbuzz/bin/Debug/net7.0/12-fizzbuzz.pdb
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-ifelse_loops_methods/12-fizzbuzz/obj/Debug/net7.0/12-fizzbuzz.dll
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-ifelse_loops_methods/12-fizzbuzz/obj/Debug/net7.0/refint/12-fizzbuzz.dll
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-ifelse_loops_methods/12-fizzbuzz/obj/Debug/net7.0/12-fizzbuzz.pdb
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-ifelse_loops_methods/12-fizzbuzz/obj/Debug/net7.0/12-fizzbuzz.genruntimeconfig.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-ifelse_loops_methods/12-fizzbuzz/obj/Debug/net7.0/ref/12-fizzbuzz.dll
