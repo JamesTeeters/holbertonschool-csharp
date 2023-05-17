@@ -1,0 +1,15 @@
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-ifelse_loops_methods/0-positive_or_negative/obj/Debug/net7.0/0-positive_or_negative.csproj.AssemblyReference.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-ifelse_loops_methods/0-positive_or_negative/obj/Debug/net7.0/0-positive_or_negative.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-ifelse_loops_methods/0-positive_or_negative/obj/Debug/net7.0/0-positive_or_negative.AssemblyInfoInputs.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-ifelse_loops_methods/0-positive_or_negative/obj/Debug/net7.0/0-positive_or_negative.AssemblyInfo.cs
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-ifelse_loops_methods/0-positive_or_negative/obj/Debug/net7.0/0-positive_or_negative.csproj.CoreCompileInputs.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-ifelse_loops_methods/0-positive_or_negative/bin/Debug/net7.0/0-positive_or_negative
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-ifelse_loops_methods/0-positive_or_negative/bin/Debug/net7.0/0-positive_or_negative.deps.json
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-ifelse_loops_methods/0-positive_or_negative/bin/Debug/net7.0/0-positive_or_negative.runtimeconfig.json
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-ifelse_loops_methods/0-positive_or_negative/bin/Debug/net7.0/0-positive_or_negative.dll
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-ifelse_loops_methods/0-positive_or_negative/bin/Debug/net7.0/0-positive_or_negative.pdb
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-ifelse_loops_methods/0-positive_or_negative/obj/Debug/net7.0/0-positive_or_negative.dll
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-ifelse_loops_methods/0-positive_or_negative/obj/Debug/net7.0/refint/0-positive_or_negative.dll
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-ifelse_loops_methods/0-positive_or_negative/obj/Debug/net7.0/0-positive_or_negative.pdb
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-ifelse_loops_methods/0-positive_or_negative/obj/Debug/net7.0/0-positive_or_negative.genruntimeconfig.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-ifelse_loops_methods/0-positive_or_negative/obj/Debug/net7.0/ref/0-positive_or_negative.dll
