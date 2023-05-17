@@ -1,0 +1,15 @@
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-ifelse_loops_methods/1-last_digit/bin/Debug/net7.0/1-last_digit
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-ifelse_loops_methods/1-last_digit/bin/Debug/net7.0/1-last_digit.deps.json
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-ifelse_loops_methods/1-last_digit/bin/Debug/net7.0/1-last_digit.runtimeconfig.json
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-ifelse_loops_methods/1-last_digit/bin/Debug/net7.0/1-last_digit.dll
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-ifelse_loops_methods/1-last_digit/bin/Debug/net7.0/1-last_digit.pdb
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-ifelse_loops_methods/1-last_digit/obj/Debug/net7.0/1-last_digit.csproj.AssemblyReference.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-ifelse_loops_methods/1-last_digit/obj/Debug/net7.0/1-last_digit.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-ifelse_loops_methods/1-last_digit/obj/Debug/net7.0/1-last_digit.AssemblyInfoInputs.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-ifelse_loops_methods/1-last_digit/obj/Debug/net7.0/1-last_digit.AssemblyInfo.cs
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-ifelse_loops_methods/1-last_digit/obj/Debug/net7.0/1-last_digit.csproj.CoreCompileInputs.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-ifelse_loops_methods/1-last_digit/obj/Debug/net7.0/1-last_digit.dll
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-ifelse_loops_methods/1-last_digit/obj/Debug/net7.0/refint/1-last_digit.dll
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-ifelse_loops_methods/1-last_digit/obj/Debug/net7.0/1-last_digit.pdb
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-ifelse_loops_methods/1-last_digit/obj/Debug/net7.0/1-last_digit.genruntimeconfig.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-ifelse_loops_methods/1-last_digit/obj/Debug/net7.0/ref/1-last_digit.dll
