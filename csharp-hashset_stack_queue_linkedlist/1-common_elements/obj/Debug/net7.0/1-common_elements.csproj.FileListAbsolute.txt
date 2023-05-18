@@ -1,0 +1,15 @@
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/1-common_elements/obj/Debug/net7.0/1-common_elements.csproj.AssemblyReference.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/1-common_elements/obj/Debug/net7.0/1-common_elements.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/1-common_elements/obj/Debug/net7.0/1-common_elements.AssemblyInfoInputs.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/1-common_elements/obj/Debug/net7.0/1-common_elements.AssemblyInfo.cs
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/1-common_elements/obj/Debug/net7.0/1-common_elements.csproj.CoreCompileInputs.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/1-common_elements/bin/Debug/net7.0/1-common_elements
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/1-common_elements/bin/Debug/net7.0/1-common_elements.deps.json
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/1-common_elements/bin/Debug/net7.0/1-common_elements.runtimeconfig.json
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/1-common_elements/bin/Debug/net7.0/1-common_elements.dll
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/1-common_elements/bin/Debug/net7.0/1-common_elements.pdb
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/1-common_elements/obj/Debug/net7.0/1-common_elements.dll
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/1-common_elements/obj/Debug/net7.0/refint/1-common_elements.dll
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/1-common_elements/obj/Debug/net7.0/1-common_elements.pdb
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/1-common_elements/obj/Debug/net7.0/1-common_elements.genruntimeconfig.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/1-common_elements/obj/Debug/net7.0/ref/1-common_elements.dll

@@ -1,0 +1,15 @@
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/8-linkedlist_find/bin/Debug/net7.0/8-linkedlist_find
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/8-linkedlist_find/bin/Debug/net7.0/8-linkedlist_find.deps.json
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/8-linkedlist_find/bin/Debug/net7.0/8-linkedlist_find.runtimeconfig.json
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/8-linkedlist_find/bin/Debug/net7.0/8-linkedlist_find.dll
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/8-linkedlist_find/bin/Debug/net7.0/8-linkedlist_find.pdb
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/8-linkedlist_find/obj/Debug/net7.0/8-linkedlist_find.csproj.AssemblyReference.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/8-linkedlist_find/obj/Debug/net7.0/8-linkedlist_find.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/8-linkedlist_find/obj/Debug/net7.0/8-linkedlist_find.AssemblyInfoInputs.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/8-linkedlist_find/obj/Debug/net7.0/8-linkedlist_find.AssemblyInfo.cs
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/8-linkedlist_find/obj/Debug/net7.0/8-linkedlist_find.csproj.CoreCompileInputs.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/8-linkedlist_find/obj/Debug/net7.0/8-linkedlist_find.dll
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/8-linkedlist_find/obj/Debug/net7.0/refint/8-linkedlist_find.dll
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/8-linkedlist_find/obj/Debug/net7.0/8-linkedlist_find.pdb
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/8-linkedlist_find/obj/Debug/net7.0/8-linkedlist_find.genruntimeconfig.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/8-linkedlist_find/obj/Debug/net7.0/ref/8-linkedlist_find.dll

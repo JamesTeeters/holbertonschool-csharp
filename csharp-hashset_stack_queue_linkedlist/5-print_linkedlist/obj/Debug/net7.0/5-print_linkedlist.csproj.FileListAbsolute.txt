@@ -1,0 +1,15 @@
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/5-print_linkedlist/bin/Debug/net7.0/5-print_linkedlist
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/5-print_linkedlist/bin/Debug/net7.0/5-print_linkedlist.deps.json
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/5-print_linkedlist/bin/Debug/net7.0/5-print_linkedlist.runtimeconfig.json
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/5-print_linkedlist/bin/Debug/net7.0/5-print_linkedlist.dll
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/5-print_linkedlist/bin/Debug/net7.0/5-print_linkedlist.pdb
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/5-print_linkedlist/obj/Debug/net7.0/5-print_linkedlist.csproj.AssemblyReference.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/5-print_linkedlist/obj/Debug/net7.0/5-print_linkedlist.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/5-print_linkedlist/obj/Debug/net7.0/5-print_linkedlist.AssemblyInfoInputs.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/5-print_linkedlist/obj/Debug/net7.0/5-print_linkedlist.AssemblyInfo.cs
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/5-print_linkedlist/obj/Debug/net7.0/5-print_linkedlist.csproj.CoreCompileInputs.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/5-print_linkedlist/obj/Debug/net7.0/5-print_linkedlist.dll
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/5-print_linkedlist/obj/Debug/net7.0/refint/5-print_linkedlist.dll
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/5-print_linkedlist/obj/Debug/net7.0/5-print_linkedlist.pdb
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/5-print_linkedlist/obj/Debug/net7.0/5-print_linkedlist.genruntimeconfig.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/5-print_linkedlist/obj/Debug/net7.0/ref/5-print_linkedlist.dll

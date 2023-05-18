@@ -1,0 +1,5 @@
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/0-unique_add/obj/Debug/netcoreapp2.1/0-unique_add.csproj.AssemblyReference.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/0-unique_add/obj/Debug/netcoreapp2.1/0-unique_add.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/0-unique_add/obj/Debug/netcoreapp2.1/0-unique_add.AssemblyInfoInputs.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/0-unique_add/obj/Debug/netcoreapp2.1/0-unique_add.AssemblyInfo.cs
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/0-unique_add/obj/Debug/netcoreapp2.1/0-unique_add.csproj.CoreCompileInputs.cache
