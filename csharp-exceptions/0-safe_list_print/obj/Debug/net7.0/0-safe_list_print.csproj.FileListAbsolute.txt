@@ -1,0 +1,15 @@
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-exceptions/0-safe_list_print/obj/Debug/net7.0/0-safe_list_print.csproj.AssemblyReference.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-exceptions/0-safe_list_print/obj/Debug/net7.0/0-safe_list_print.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-exceptions/0-safe_list_print/obj/Debug/net7.0/0-safe_list_print.AssemblyInfoInputs.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-exceptions/0-safe_list_print/obj/Debug/net7.0/0-safe_list_print.AssemblyInfo.cs
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-exceptions/0-safe_list_print/obj/Debug/net7.0/0-safe_list_print.csproj.CoreCompileInputs.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-exceptions/0-safe_list_print/bin/Debug/net7.0/0-safe_list_print
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-exceptions/0-safe_list_print/bin/Debug/net7.0/0-safe_list_print.deps.json
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-exceptions/0-safe_list_print/bin/Debug/net7.0/0-safe_list_print.runtimeconfig.json
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-exceptions/0-safe_list_print/bin/Debug/net7.0/0-safe_list_print.dll
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-exceptions/0-safe_list_print/bin/Debug/net7.0/0-safe_list_print.pdb
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-exceptions/0-safe_list_print/obj/Debug/net7.0/0-safe_list_print.dll
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-exceptions/0-safe_list_print/obj/Debug/net7.0/refint/0-safe_list_print.dll
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-exceptions/0-safe_list_print/obj/Debug/net7.0/0-safe_list_print.pdb
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-exceptions/0-safe_list_print/obj/Debug/net7.0/0-safe_list_print.genruntimeconfig.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-exceptions/0-safe_list_print/obj/Debug/net7.0/ref/0-safe_list_print.dll
