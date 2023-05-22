@@ -1,0 +1,15 @@
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-exceptions/3-throw_exception/obj/Debug/net7.0/3-throw_exception.csproj.AssemblyReference.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-exceptions/3-throw_exception/obj/Debug/net7.0/3-throw_exception.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-exceptions/3-throw_exception/obj/Debug/net7.0/3-throw_exception.AssemblyInfoInputs.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-exceptions/3-throw_exception/obj/Debug/net7.0/3-throw_exception.AssemblyInfo.cs
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-exceptions/3-throw_exception/obj/Debug/net7.0/3-throw_exception.csproj.CoreCompileInputs.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-exceptions/3-throw_exception/bin/Debug/net7.0/3-throw_exception
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-exceptions/3-throw_exception/bin/Debug/net7.0/3-throw_exception.deps.json
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-exceptions/3-throw_exception/bin/Debug/net7.0/3-throw_exception.runtimeconfig.json
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-exceptions/3-throw_exception/bin/Debug/net7.0/3-throw_exception.dll
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-exceptions/3-throw_exception/bin/Debug/net7.0/3-throw_exception.pdb
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-exceptions/3-throw_exception/obj/Debug/net7.0/3-throw_exception.dll
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-exceptions/3-throw_exception/obj/Debug/net7.0/refint/3-throw_exception.dll
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-exceptions/3-throw_exception/obj/Debug/net7.0/3-throw_exception.pdb
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-exceptions/3-throw_exception/obj/Debug/net7.0/3-throw_exception.genruntimeconfig.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-exceptions/3-throw_exception/obj/Debug/net7.0/ref/3-throw_exception.dll
