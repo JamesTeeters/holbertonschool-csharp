@@ -1,0 +1,15 @@
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-structs_enums/1-dog/obj/Debug/net7.0/1-dog.csproj.AssemblyReference.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-structs_enums/1-dog/obj/Debug/net7.0/1-dog.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-structs_enums/1-dog/obj/Debug/net7.0/1-dog.AssemblyInfoInputs.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-structs_enums/1-dog/obj/Debug/net7.0/1-dog.AssemblyInfo.cs
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-structs_enums/1-dog/obj/Debug/net7.0/1-dog.csproj.CoreCompileInputs.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-structs_enums/1-dog/bin/Debug/net7.0/1-dog
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-structs_enums/1-dog/bin/Debug/net7.0/1-dog.deps.json
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-structs_enums/1-dog/bin/Debug/net7.0/1-dog.runtimeconfig.json
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-structs_enums/1-dog/bin/Debug/net7.0/1-dog.dll
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-structs_enums/1-dog/bin/Debug/net7.0/1-dog.pdb
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-structs_enums/1-dog/obj/Debug/net7.0/1-dog.dll
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-structs_enums/1-dog/obj/Debug/net7.0/refint/1-dog.dll
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-structs_enums/1-dog/obj/Debug/net7.0/1-dog.pdb
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-structs_enums/1-dog/obj/Debug/net7.0/1-dog.genruntimeconfig.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-structs_enums/1-dog/obj/Debug/net7.0/ref/1-dog.dll
