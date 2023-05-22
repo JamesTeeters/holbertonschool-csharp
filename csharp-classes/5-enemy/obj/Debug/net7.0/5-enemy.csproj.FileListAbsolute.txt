@@ -1,0 +1,15 @@
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-classes/5-enemy/bin/Debug/net7.0/5-enemy
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-classes/5-enemy/bin/Debug/net7.0/5-enemy.deps.json
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-classes/5-enemy/bin/Debug/net7.0/5-enemy.runtimeconfig.json
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-classes/5-enemy/bin/Debug/net7.0/5-enemy.dll
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-classes/5-enemy/bin/Debug/net7.0/5-enemy.pdb
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-classes/5-enemy/obj/Debug/net7.0/5-enemy.csproj.AssemblyReference.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-classes/5-enemy/obj/Debug/net7.0/5-enemy.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-classes/5-enemy/obj/Debug/net7.0/5-enemy.AssemblyInfoInputs.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-classes/5-enemy/obj/Debug/net7.0/5-enemy.AssemblyInfo.cs
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-classes/5-enemy/obj/Debug/net7.0/5-enemy.csproj.CoreCompileInputs.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-classes/5-enemy/obj/Debug/net7.0/5-enemy.dll
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-classes/5-enemy/obj/Debug/net7.0/refint/5-enemy.dll
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-classes/5-enemy/obj/Debug/net7.0/5-enemy.pdb
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-classes/5-enemy/obj/Debug/net7.0/5-enemy.genruntimeconfig.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-classes/5-enemy/obj/Debug/net7.0/ref/5-enemy.dll
