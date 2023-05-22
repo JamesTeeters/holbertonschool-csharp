@@ -1,0 +1,15 @@
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-exceptions/2-divide_lists/bin/Debug/net7.0/2-divide_lists
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-exceptions/2-divide_lists/bin/Debug/net7.0/2-divide_lists.deps.json
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-exceptions/2-divide_lists/bin/Debug/net7.0/2-divide_lists.runtimeconfig.json
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-exceptions/2-divide_lists/bin/Debug/net7.0/2-divide_lists.dll
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-exceptions/2-divide_lists/bin/Debug/net7.0/2-divide_lists.pdb
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-exceptions/2-divide_lists/obj/Debug/net7.0/2-divide_lists.csproj.AssemblyReference.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-exceptions/2-divide_lists/obj/Debug/net7.0/2-divide_lists.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-exceptions/2-divide_lists/obj/Debug/net7.0/2-divide_lists.AssemblyInfoInputs.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-exceptions/2-divide_lists/obj/Debug/net7.0/2-divide_lists.AssemblyInfo.cs
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-exceptions/2-divide_lists/obj/Debug/net7.0/2-divide_lists.csproj.CoreCompileInputs.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-exceptions/2-divide_lists/obj/Debug/net7.0/2-divide_lists.dll
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-exceptions/2-divide_lists/obj/Debug/net7.0/refint/2-divide_lists.dll
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-exceptions/2-divide_lists/obj/Debug/net7.0/2-divide_lists.pdb
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-exceptions/2-divide_lists/obj/Debug/net7.0/2-divide_lists.genruntimeconfig.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-exceptions/2-divide_lists/obj/Debug/net7.0/ref/2-divide_lists.dll
