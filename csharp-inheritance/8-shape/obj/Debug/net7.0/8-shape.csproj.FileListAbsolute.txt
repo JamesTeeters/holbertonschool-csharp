@@ -1,0 +1,15 @@
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-inheritance/8-shape/obj/Debug/net7.0/8-shape.csproj.AssemblyReference.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-inheritance/8-shape/obj/Debug/net7.0/8-shape.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-inheritance/8-shape/obj/Debug/net7.0/8-shape.AssemblyInfoInputs.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-inheritance/8-shape/obj/Debug/net7.0/8-shape.AssemblyInfo.cs
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-inheritance/8-shape/obj/Debug/net7.0/8-shape.csproj.CoreCompileInputs.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-inheritance/8-shape/bin/Debug/net7.0/8-shape
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-inheritance/8-shape/bin/Debug/net7.0/8-shape.deps.json
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-inheritance/8-shape/bin/Debug/net7.0/8-shape.runtimeconfig.json
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-inheritance/8-shape/bin/Debug/net7.0/8-shape.dll
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-inheritance/8-shape/bin/Debug/net7.0/8-shape.pdb
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-inheritance/8-shape/obj/Debug/net7.0/8-shape.dll
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-inheritance/8-shape/obj/Debug/net7.0/refint/8-shape.dll
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-inheritance/8-shape/obj/Debug/net7.0/8-shape.pdb
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-inheritance/8-shape/obj/Debug/net7.0/8-shape.genruntimeconfig.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-inheritance/8-shape/obj/Debug/net7.0/ref/8-shape.dll
