@@ -1,0 +1,15 @@
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-inheritance/3-type_get/obj/Debug/net7.0/3-type_get.csproj.AssemblyReference.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-inheritance/3-type_get/obj/Debug/net7.0/3-type_get.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-inheritance/3-type_get/obj/Debug/net7.0/3-type_get.AssemblyInfoInputs.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-inheritance/3-type_get/obj/Debug/net7.0/3-type_get.AssemblyInfo.cs
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-inheritance/3-type_get/obj/Debug/net7.0/3-type_get.csproj.CoreCompileInputs.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-inheritance/3-type_get/bin/Debug/net7.0/3-type_get
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-inheritance/3-type_get/bin/Debug/net7.0/3-type_get.deps.json
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-inheritance/3-type_get/bin/Debug/net7.0/3-type_get.runtimeconfig.json
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-inheritance/3-type_get/bin/Debug/net7.0/3-type_get.dll
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-inheritance/3-type_get/bin/Debug/net7.0/3-type_get.pdb
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-inheritance/3-type_get/obj/Debug/net7.0/3-type_get.dll
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-inheritance/3-type_get/obj/Debug/net7.0/refint/3-type_get.dll
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-inheritance/3-type_get/obj/Debug/net7.0/3-type_get.pdb
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-inheritance/3-type_get/obj/Debug/net7.0/3-type_get.genruntimeconfig.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-inheritance/3-type_get/obj/Debug/net7.0/ref/3-type_get.dll
