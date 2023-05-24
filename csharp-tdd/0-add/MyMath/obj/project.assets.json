@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-tdd/0-add/0-add.csproj",
-      "projectName": "0-add",
-      "projectPath": "/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-tdd/0-add/0-add.csproj",
+      "projectUniqueName": "/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-tdd/0-add/MyMath/MyMath.csproj",
+      "projectName": "MyMath",
+      "projectPath": "/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-tdd/0-add/MyMath/MyMath.csproj",
       "packagesPath": "/home/james/.nuget/packages/",
-      "outputPath": "/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-tdd/0-add/obj/",
+      "outputPath": "/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-tdd/0-add/MyMath/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/james/.nuget/NuGet/NuGet.Config"
