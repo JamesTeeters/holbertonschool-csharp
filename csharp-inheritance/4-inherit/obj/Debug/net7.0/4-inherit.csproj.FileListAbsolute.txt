@@ -1,0 +1,15 @@
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-inheritance/4-inherit/obj/Debug/net7.0/4-inherit.csproj.AssemblyReference.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-inheritance/4-inherit/obj/Debug/net7.0/4-inherit.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-inheritance/4-inherit/obj/Debug/net7.0/4-inherit.AssemblyInfoInputs.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-inheritance/4-inherit/obj/Debug/net7.0/4-inherit.AssemblyInfo.cs
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-inheritance/4-inherit/obj/Debug/net7.0/4-inherit.csproj.CoreCompileInputs.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-inheritance/4-inherit/bin/Debug/net7.0/4-inherit
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-inheritance/4-inherit/bin/Debug/net7.0/4-inherit.deps.json
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-inheritance/4-inherit/bin/Debug/net7.0/4-inherit.runtimeconfig.json
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-inheritance/4-inherit/bin/Debug/net7.0/4-inherit.dll
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-inheritance/4-inherit/bin/Debug/net7.0/4-inherit.pdb
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-inheritance/4-inherit/obj/Debug/net7.0/4-inherit.dll
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-inheritance/4-inherit/obj/Debug/net7.0/refint/4-inherit.dll
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-inheritance/4-inherit/obj/Debug/net7.0/4-inherit.pdb
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-inheritance/4-inherit/obj/Debug/net7.0/4-inherit.genruntimeconfig.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-inheritance/4-inherit/obj/Debug/net7.0/ref/4-inherit.dll
