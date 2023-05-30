@@ -1,0 +1,15 @@
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-generics/5-concatenate/bin/Debug/net7.0/5-concatenate
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-generics/5-concatenate/bin/Debug/net7.0/5-concatenate.deps.json
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-generics/5-concatenate/bin/Debug/net7.0/5-concatenate.runtimeconfig.json
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-generics/5-concatenate/bin/Debug/net7.0/5-concatenate.dll
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-generics/5-concatenate/bin/Debug/net7.0/5-concatenate.pdb
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-generics/5-concatenate/obj/Debug/net7.0/5-concatenate.csproj.AssemblyReference.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-generics/5-concatenate/obj/Debug/net7.0/5-concatenate.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-generics/5-concatenate/obj/Debug/net7.0/5-concatenate.AssemblyInfoInputs.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-generics/5-concatenate/obj/Debug/net7.0/5-concatenate.AssemblyInfo.cs
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-generics/5-concatenate/obj/Debug/net7.0/5-concatenate.csproj.CoreCompileInputs.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-generics/5-concatenate/obj/Debug/net7.0/5-concatenate.dll
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-generics/5-concatenate/obj/Debug/net7.0/refint/5-concatenate.dll
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-generics/5-concatenate/obj/Debug/net7.0/5-concatenate.pdb
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-generics/5-concatenate/obj/Debug/net7.0/5-concatenate.genruntimeconfig.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-generics/5-concatenate/obj/Debug/net7.0/ref/5-concatenate.dll
