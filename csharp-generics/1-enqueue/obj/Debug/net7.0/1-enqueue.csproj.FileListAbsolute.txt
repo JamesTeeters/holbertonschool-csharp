@@ -1,0 +1,15 @@
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-generics/1-enqueue/bin/Debug/net7.0/1-enqueue
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-generics/1-enqueue/bin/Debug/net7.0/1-enqueue.deps.json
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-generics/1-enqueue/bin/Debug/net7.0/1-enqueue.runtimeconfig.json
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-generics/1-enqueue/bin/Debug/net7.0/1-enqueue.dll
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-generics/1-enqueue/bin/Debug/net7.0/1-enqueue.pdb
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-generics/1-enqueue/obj/Debug/net7.0/1-enqueue.csproj.AssemblyReference.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-generics/1-enqueue/obj/Debug/net7.0/1-enqueue.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-generics/1-enqueue/obj/Debug/net7.0/1-enqueue.AssemblyInfoInputs.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-generics/1-enqueue/obj/Debug/net7.0/1-enqueue.AssemblyInfo.cs
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-generics/1-enqueue/obj/Debug/net7.0/1-enqueue.csproj.CoreCompileInputs.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-generics/1-enqueue/obj/Debug/net7.0/1-enqueue.dll
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-generics/1-enqueue/obj/Debug/net7.0/refint/1-enqueue.dll
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-generics/1-enqueue/obj/Debug/net7.0/1-enqueue.pdb
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-generics/1-enqueue/obj/Debug/net7.0/1-enqueue.genruntimeconfig.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-generics/1-enqueue/obj/Debug/net7.0/ref/1-enqueue.dll
