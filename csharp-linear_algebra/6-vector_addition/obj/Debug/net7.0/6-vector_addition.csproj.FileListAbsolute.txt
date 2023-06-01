@@ -1,0 +1,15 @@
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-linear_algebra/6-vector_addition/obj/Debug/net7.0/6-vector_addition.csproj.AssemblyReference.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-linear_algebra/6-vector_addition/obj/Debug/net7.0/6-vector_addition.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-linear_algebra/6-vector_addition/obj/Debug/net7.0/6-vector_addition.AssemblyInfoInputs.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-linear_algebra/6-vector_addition/obj/Debug/net7.0/6-vector_addition.AssemblyInfo.cs
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-linear_algebra/6-vector_addition/obj/Debug/net7.0/6-vector_addition.csproj.CoreCompileInputs.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-linear_algebra/6-vector_addition/bin/Debug/net7.0/6-vector_addition
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-linear_algebra/6-vector_addition/bin/Debug/net7.0/6-vector_addition.deps.json
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-linear_algebra/6-vector_addition/bin/Debug/net7.0/6-vector_addition.runtimeconfig.json
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-linear_algebra/6-vector_addition/bin/Debug/net7.0/6-vector_addition.dll
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-linear_algebra/6-vector_addition/bin/Debug/net7.0/6-vector_addition.pdb
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-linear_algebra/6-vector_addition/obj/Debug/net7.0/6-vector_addition.dll
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-linear_algebra/6-vector_addition/obj/Debug/net7.0/refint/6-vector_addition.dll
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-linear_algebra/6-vector_addition/obj/Debug/net7.0/6-vector_addition.pdb
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-linear_algebra/6-vector_addition/obj/Debug/net7.0/6-vector_addition.genruntimeconfig.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-linear_algebra/6-vector_addition/obj/Debug/net7.0/ref/6-vector_addition.dll
