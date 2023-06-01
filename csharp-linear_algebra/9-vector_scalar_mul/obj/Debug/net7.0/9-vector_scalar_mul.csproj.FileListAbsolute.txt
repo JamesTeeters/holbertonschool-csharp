@@ -1,0 +1,15 @@
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-linear_algebra/9-vector_scalar_mul/obj/Debug/net7.0/9-vector_scalar_mul.csproj.AssemblyReference.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-linear_algebra/9-vector_scalar_mul/obj/Debug/net7.0/9-vector_scalar_mul.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-linear_algebra/9-vector_scalar_mul/obj/Debug/net7.0/9-vector_scalar_mul.AssemblyInfoInputs.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-linear_algebra/9-vector_scalar_mul/obj/Debug/net7.0/9-vector_scalar_mul.AssemblyInfo.cs
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-linear_algebra/9-vector_scalar_mul/obj/Debug/net7.0/9-vector_scalar_mul.csproj.CoreCompileInputs.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-linear_algebra/9-vector_scalar_mul/bin/Debug/net7.0/9-vector_scalar_mul
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-linear_algebra/9-vector_scalar_mul/bin/Debug/net7.0/9-vector_scalar_mul.deps.json
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-linear_algebra/9-vector_scalar_mul/bin/Debug/net7.0/9-vector_scalar_mul.runtimeconfig.json
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-linear_algebra/9-vector_scalar_mul/bin/Debug/net7.0/9-vector_scalar_mul.dll
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-linear_algebra/9-vector_scalar_mul/bin/Debug/net7.0/9-vector_scalar_mul.pdb
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-linear_algebra/9-vector_scalar_mul/obj/Debug/net7.0/9-vector_scalar_mul.dll
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-linear_algebra/9-vector_scalar_mul/obj/Debug/net7.0/refint/9-vector_scalar_mul.dll
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-linear_algebra/9-vector_scalar_mul/obj/Debug/net7.0/9-vector_scalar_mul.pdb
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-linear_algebra/9-vector_scalar_mul/obj/Debug/net7.0/9-vector_scalar_mul.genruntimeconfig.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-linear_algebra/9-vector_scalar_mul/obj/Debug/net7.0/ref/9-vector_scalar_mul.dll
