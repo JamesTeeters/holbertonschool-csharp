@@ -1,0 +1,15 @@
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-linear_algebra/3-magnitude/obj/Debug/net7.0/3-magnitude.csproj.AssemblyReference.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-linear_algebra/3-magnitude/obj/Debug/net7.0/3-magnitude.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-linear_algebra/3-magnitude/obj/Debug/net7.0/3-magnitude.AssemblyInfoInputs.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-linear_algebra/3-magnitude/obj/Debug/net7.0/3-magnitude.AssemblyInfo.cs
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-linear_algebra/3-magnitude/obj/Debug/net7.0/3-magnitude.csproj.CoreCompileInputs.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-linear_algebra/3-magnitude/bin/Debug/net7.0/3-magnitude
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-linear_algebra/3-magnitude/bin/Debug/net7.0/3-magnitude.deps.json
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-linear_algebra/3-magnitude/bin/Debug/net7.0/3-magnitude.runtimeconfig.json
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-linear_algebra/3-magnitude/bin/Debug/net7.0/3-magnitude.dll
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-linear_algebra/3-magnitude/bin/Debug/net7.0/3-magnitude.pdb
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-linear_algebra/3-magnitude/obj/Debug/net7.0/3-magnitude.dll
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-linear_algebra/3-magnitude/obj/Debug/net7.0/refint/3-magnitude.dll
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-linear_algebra/3-magnitude/obj/Debug/net7.0/3-magnitude.pdb
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-linear_algebra/3-magnitude/obj/Debug/net7.0/3-magnitude.genruntimeconfig.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-linear_algebra/3-magnitude/obj/Debug/net7.0/ref/3-magnitude.dll
