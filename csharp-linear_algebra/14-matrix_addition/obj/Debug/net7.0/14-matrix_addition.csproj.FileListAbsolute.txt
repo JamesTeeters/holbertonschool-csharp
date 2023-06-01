@@ -1,0 +1,15 @@
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-linear_algebra/14-matrix_addition/obj/Debug/net7.0/14-matrix_addition.csproj.AssemblyReference.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-linear_algebra/14-matrix_addition/obj/Debug/net7.0/14-matrix_addition.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-linear_algebra/14-matrix_addition/obj/Debug/net7.0/14-matrix_addition.AssemblyInfoInputs.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-linear_algebra/14-matrix_addition/obj/Debug/net7.0/14-matrix_addition.AssemblyInfo.cs
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-linear_algebra/14-matrix_addition/obj/Debug/net7.0/14-matrix_addition.csproj.CoreCompileInputs.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-linear_algebra/14-matrix_addition/bin/Debug/net7.0/14-matrix_addition
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-linear_algebra/14-matrix_addition/bin/Debug/net7.0/14-matrix_addition.deps.json
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-linear_algebra/14-matrix_addition/bin/Debug/net7.0/14-matrix_addition.runtimeconfig.json
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-linear_algebra/14-matrix_addition/bin/Debug/net7.0/14-matrix_addition.dll
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-linear_algebra/14-matrix_addition/bin/Debug/net7.0/14-matrix_addition.pdb
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-linear_algebra/14-matrix_addition/obj/Debug/net7.0/14-matrix_addition.dll
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-linear_algebra/14-matrix_addition/obj/Debug/net7.0/refint/14-matrix_addition.dll
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-linear_algebra/14-matrix_addition/obj/Debug/net7.0/14-matrix_addition.pdb
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-linear_algebra/14-matrix_addition/obj/Debug/net7.0/14-matrix_addition.genruntimeconfig.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-linear_algebra/14-matrix_addition/obj/Debug/net7.0/ref/14-matrix_addition.dll
