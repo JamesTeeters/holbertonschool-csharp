@@ -12,13 +12,13 @@ class MatrixMath
         if (matrix is double[,] && matrix.GetLength(0) == 2 && matrix.GetLength(1) == 2)
         {
             int mRow1 = matrix.GetLength(0);
-            int mCOl1 = matrix.GetLength(1);
+            int mCol1 = matrix.GetLength(1);
             int mRow2 = rotateMatrix.GetLength(0);
             int mCol2 = rotateMatrix.GetLength(1);
 
-            double[,] matrixMul = new double[mRow1, mCOl2];
+            double[,] matrixMul = new double[mRow1, mCol2];
 
-            for (int col = 0; col < mCOl1; col++)
+            for (int col = 0; col < mCol1; col++)
             {
                 for (int row = 0; row < mRow1; row++)
                 {
