@@ -1,0 +1,15 @@
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-interfaces/3-decorations/obj/Debug/net7.0/3-decorations.csproj.AssemblyReference.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-interfaces/3-decorations/obj/Debug/net7.0/3-decorations.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-interfaces/3-decorations/obj/Debug/net7.0/3-decorations.AssemblyInfoInputs.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-interfaces/3-decorations/obj/Debug/net7.0/3-decorations.AssemblyInfo.cs
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-interfaces/3-decorations/obj/Debug/net7.0/3-decorations.csproj.CoreCompileInputs.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-interfaces/3-decorations/bin/Debug/net7.0/3-decorations
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-interfaces/3-decorations/bin/Debug/net7.0/3-decorations.deps.json
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-interfaces/3-decorations/bin/Debug/net7.0/3-decorations.runtimeconfig.json
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-interfaces/3-decorations/bin/Debug/net7.0/3-decorations.dll
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-interfaces/3-decorations/bin/Debug/net7.0/3-decorations.pdb
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-interfaces/3-decorations/obj/Debug/net7.0/3-decorations.dll
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-interfaces/3-decorations/obj/Debug/net7.0/refint/3-decorations.dll
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-interfaces/3-decorations/obj/Debug/net7.0/3-decorations.pdb
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-interfaces/3-decorations/obj/Debug/net7.0/3-decorations.genruntimeconfig.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-interfaces/3-decorations/obj/Debug/net7.0/ref/3-decorations.dll
