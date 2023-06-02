@@ -60,9 +60,6 @@ class Player
 
     public void ValidateHP(float newHp)
     {
-        // If newHp is negative, set hp to 0
-        // If newHp is larger than maxHp, set hp to the value of maxHp
-        // Otherwise, set hp to the value of newHp
         this.hp = newHp < 0 ? 0f : newHp > this.maxHp ? maxHp : newHp ;
     }
 

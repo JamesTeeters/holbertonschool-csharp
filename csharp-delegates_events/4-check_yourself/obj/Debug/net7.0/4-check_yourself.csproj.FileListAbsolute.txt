@@ -1,0 +1,15 @@
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-delegates_events/4-check_yourself/bin/Debug/net7.0/4-check_yourself
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-delegates_events/4-check_yourself/bin/Debug/net7.0/4-check_yourself.deps.json
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-delegates_events/4-check_yourself/bin/Debug/net7.0/4-check_yourself.runtimeconfig.json
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-delegates_events/4-check_yourself/bin/Debug/net7.0/4-check_yourself.dll
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-delegates_events/4-check_yourself/bin/Debug/net7.0/4-check_yourself.pdb
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-delegates_events/4-check_yourself/obj/Debug/net7.0/4-check_yourself.csproj.AssemblyReference.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-delegates_events/4-check_yourself/obj/Debug/net7.0/4-check_yourself.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-delegates_events/4-check_yourself/obj/Debug/net7.0/4-check_yourself.AssemblyInfoInputs.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-delegates_events/4-check_yourself/obj/Debug/net7.0/4-check_yourself.AssemblyInfo.cs
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-delegates_events/4-check_yourself/obj/Debug/net7.0/4-check_yourself.csproj.CoreCompileInputs.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-delegates_events/4-check_yourself/obj/Debug/net7.0/4-check_yourself.dll
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-delegates_events/4-check_yourself/obj/Debug/net7.0/refint/4-check_yourself.dll
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-delegates_events/4-check_yourself/obj/Debug/net7.0/4-check_yourself.pdb
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-delegates_events/4-check_yourself/obj/Debug/net7.0/4-check_yourself.genruntimeconfig.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-delegates_events/4-check_yourself/obj/Debug/net7.0/ref/4-check_yourself.dll
