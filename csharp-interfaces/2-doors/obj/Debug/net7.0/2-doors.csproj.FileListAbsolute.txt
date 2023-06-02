@@ -1,0 +1,15 @@
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-interfaces/2-doors/obj/Debug/net7.0/2-doors.csproj.AssemblyReference.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-interfaces/2-doors/obj/Debug/net7.0/2-doors.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-interfaces/2-doors/obj/Debug/net7.0/2-doors.AssemblyInfoInputs.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-interfaces/2-doors/obj/Debug/net7.0/2-doors.AssemblyInfo.cs
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-interfaces/2-doors/obj/Debug/net7.0/2-doors.csproj.CoreCompileInputs.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-interfaces/2-doors/bin/Debug/net7.0/2-doors
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-interfaces/2-doors/bin/Debug/net7.0/2-doors.deps.json
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-interfaces/2-doors/bin/Debug/net7.0/2-doors.runtimeconfig.json
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-interfaces/2-doors/bin/Debug/net7.0/2-doors.dll
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-interfaces/2-doors/bin/Debug/net7.0/2-doors.pdb
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-interfaces/2-doors/obj/Debug/net7.0/2-doors.dll
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-interfaces/2-doors/obj/Debug/net7.0/refint/2-doors.dll
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-interfaces/2-doors/obj/Debug/net7.0/2-doors.pdb
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-interfaces/2-doors/obj/Debug/net7.0/2-doors.genruntimeconfig.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-interfaces/2-doors/obj/Debug/net7.0/ref/2-doors.dll
