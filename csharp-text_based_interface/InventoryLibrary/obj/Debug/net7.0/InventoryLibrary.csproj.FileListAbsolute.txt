@@ -1,0 +1,5 @@
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-text_based_interface/InventoryLibrary/obj/Debug/net7.0/InventoryLibrary.csproj.AssemblyReference.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-text_based_interface/InventoryLibrary/obj/Debug/net7.0/InventoryLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-text_based_interface/InventoryLibrary/obj/Debug/net7.0/InventoryLibrary.AssemblyInfoInputs.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-text_based_interface/InventoryLibrary/obj/Debug/net7.0/InventoryLibrary.AssemblyInfo.cs
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-text_based_interface/InventoryLibrary/obj/Debug/net7.0/InventoryLibrary.csproj.CoreCompileInputs.cache
