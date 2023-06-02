@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
-    <TargetFramework>net</Tcoreapp2.1argetFramework>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
     <RootNamespace>_5_eventful</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
