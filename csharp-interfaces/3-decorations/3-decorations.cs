@@ -62,7 +62,7 @@ class Decoration : Base, IInteractive, IBreakable
         if (durability == 0) {
             Console.WriteLine($"You smash the {this.name}. What a mess.");
         }
-        else {
+        if (durability < 0) {
             Console.WriteLine($"The {this.name} is already broken.");
         }
     }
