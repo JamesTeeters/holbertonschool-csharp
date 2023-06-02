@@ -28,7 +28,7 @@ class MatrixMath
                     }
                 }
             }
-            return matrixMul
+            return matrixMul;
         }
         else
         {
