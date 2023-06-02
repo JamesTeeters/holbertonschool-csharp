@@ -1,0 +1,15 @@
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-delegates_events/1-damage_delegation/bin/Debug/net7.0/1-damage_delegation
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-delegates_events/1-damage_delegation/bin/Debug/net7.0/1-damage_delegation.deps.json
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-delegates_events/1-damage_delegation/bin/Debug/net7.0/1-damage_delegation.runtimeconfig.json
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-delegates_events/1-damage_delegation/bin/Debug/net7.0/1-damage_delegation.dll
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-delegates_events/1-damage_delegation/bin/Debug/net7.0/1-damage_delegation.pdb
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-delegates_events/1-damage_delegation/obj/Debug/net7.0/1-damage_delegation.csproj.AssemblyReference.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-delegates_events/1-damage_delegation/obj/Debug/net7.0/1-damage_delegation.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-delegates_events/1-damage_delegation/obj/Debug/net7.0/1-damage_delegation.AssemblyInfoInputs.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-delegates_events/1-damage_delegation/obj/Debug/net7.0/1-damage_delegation.AssemblyInfo.cs
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-delegates_events/1-damage_delegation/obj/Debug/net7.0/1-damage_delegation.csproj.CoreCompileInputs.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-delegates_events/1-damage_delegation/obj/Debug/net7.0/1-damage_delegation.dll
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-delegates_events/1-damage_delegation/obj/Debug/net7.0/refint/1-damage_delegation.dll
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-delegates_events/1-damage_delegation/obj/Debug/net7.0/1-damage_delegation.pdb
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-delegates_events/1-damage_delegation/obj/Debug/net7.0/1-damage_delegation.genruntimeconfig.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-delegates_events/1-damage_delegation/obj/Debug/net7.0/ref/1-damage_delegation.dll
