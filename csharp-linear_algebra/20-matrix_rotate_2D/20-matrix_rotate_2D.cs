@@ -24,11 +24,11 @@ class MatrixMath
                 {
                     for (int i = 0; i < mCol2; i++)
                     {
-                        matrixMul[row, i] = matrixMul[row, i] + matrix[row, col] * rotateMatrix[col, i];
+                        matrixMul[row, i] = Math.Round(matrixMul[row, i] + matrix[row, col] * rotateMatrix[col, i], 2);
                     }
                 }
             }
-            return Math.Round(matrixMul, 2);
+            return matrixMul
         }
         else
         {
