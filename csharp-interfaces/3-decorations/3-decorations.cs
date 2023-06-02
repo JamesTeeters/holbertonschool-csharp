@@ -51,7 +51,7 @@ class Decoration : Base, IInteractive, IBreakable
             Console.WriteLine($"You look at the {this.name}. There's a key inside.");
         }
         else {
-            Console.WriteLine($"You look at the {this.name}. Not much here.");
+            Console.WriteLine($"You look at the {this.name}. Not much to see here.");
         }
     }
     public void Break() {
