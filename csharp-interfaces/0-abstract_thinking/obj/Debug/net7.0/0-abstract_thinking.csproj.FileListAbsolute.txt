@@ -1,0 +1,15 @@
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-interfaces/0-abstract_thinking/bin/Debug/net7.0/0-abstract_thinking
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-interfaces/0-abstract_thinking/bin/Debug/net7.0/0-abstract_thinking.deps.json
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-interfaces/0-abstract_thinking/bin/Debug/net7.0/0-abstract_thinking.runtimeconfig.json
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-interfaces/0-abstract_thinking/bin/Debug/net7.0/0-abstract_thinking.dll
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-interfaces/0-abstract_thinking/bin/Debug/net7.0/0-abstract_thinking.pdb
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-interfaces/0-abstract_thinking/obj/Debug/net7.0/0-abstract_thinking.csproj.AssemblyReference.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-interfaces/0-abstract_thinking/obj/Debug/net7.0/0-abstract_thinking.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-interfaces/0-abstract_thinking/obj/Debug/net7.0/0-abstract_thinking.AssemblyInfoInputs.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-interfaces/0-abstract_thinking/obj/Debug/net7.0/0-abstract_thinking.AssemblyInfo.cs
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-interfaces/0-abstract_thinking/obj/Debug/net7.0/0-abstract_thinking.csproj.CoreCompileInputs.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-interfaces/0-abstract_thinking/obj/Debug/net7.0/0-abstract_thinking.dll
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-interfaces/0-abstract_thinking/obj/Debug/net7.0/refint/0-abstract_thinking.dll
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-interfaces/0-abstract_thinking/obj/Debug/net7.0/0-abstract_thinking.pdb
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-interfaces/0-abstract_thinking/obj/Debug/net7.0/0-abstract_thinking.genruntimeconfig.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-interfaces/0-abstract_thinking/obj/Debug/net7.0/ref/0-abstract_thinking.dll
