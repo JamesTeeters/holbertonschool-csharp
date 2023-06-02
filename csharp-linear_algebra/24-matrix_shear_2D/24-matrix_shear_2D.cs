@@ -31,7 +31,7 @@ class MatrixMath
                 {
                     for (int i = 0; i < mCol2; i++)
                     {
-                        mulMatrix[row, i] += matrix[row, col] * shearMatrix[col, i];
+                        matrixMul[row, i] += matrix[row, col] * shearMatrix[col, i];
                     }
                 }
             }
