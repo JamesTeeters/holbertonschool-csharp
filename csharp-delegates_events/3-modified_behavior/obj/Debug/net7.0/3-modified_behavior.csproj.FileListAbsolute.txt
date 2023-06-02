@@ -1,0 +1,15 @@
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-delegates_events/3-modified_behavior/bin/Debug/net7.0/3-modified_behavior
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-delegates_events/3-modified_behavior/bin/Debug/net7.0/3-modified_behavior.deps.json
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-delegates_events/3-modified_behavior/bin/Debug/net7.0/3-modified_behavior.runtimeconfig.json
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-delegates_events/3-modified_behavior/bin/Debug/net7.0/3-modified_behavior.dll
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-delegates_events/3-modified_behavior/bin/Debug/net7.0/3-modified_behavior.pdb
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-delegates_events/3-modified_behavior/obj/Debug/net7.0/3-modified_behavior.csproj.AssemblyReference.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-delegates_events/3-modified_behavior/obj/Debug/net7.0/3-modified_behavior.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-delegates_events/3-modified_behavior/obj/Debug/net7.0/3-modified_behavior.AssemblyInfoInputs.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-delegates_events/3-modified_behavior/obj/Debug/net7.0/3-modified_behavior.AssemblyInfo.cs
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-delegates_events/3-modified_behavior/obj/Debug/net7.0/3-modified_behavior.csproj.CoreCompileInputs.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-delegates_events/3-modified_behavior/obj/Debug/net7.0/3-modified_behavior.dll
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-delegates_events/3-modified_behavior/obj/Debug/net7.0/refint/3-modified_behavior.dll
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-delegates_events/3-modified_behavior/obj/Debug/net7.0/3-modified_behavior.pdb
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-delegates_events/3-modified_behavior/obj/Debug/net7.0/3-modified_behavior.genruntimeconfig.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-delegates_events/3-modified_behavior/obj/Debug/net7.0/ref/3-modified_behavior.dll
