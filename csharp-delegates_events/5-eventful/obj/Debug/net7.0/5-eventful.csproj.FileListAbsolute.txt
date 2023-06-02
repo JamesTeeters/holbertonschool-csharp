@@ -1,0 +1,15 @@
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-delegates_events/5-eventful/bin/Debug/net7.0/5-eventful
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-delegates_events/5-eventful/bin/Debug/net7.0/5-eventful.deps.json
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-delegates_events/5-eventful/bin/Debug/net7.0/5-eventful.runtimeconfig.json
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-delegates_events/5-eventful/bin/Debug/net7.0/5-eventful.dll
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-delegates_events/5-eventful/bin/Debug/net7.0/5-eventful.pdb
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-delegates_events/5-eventful/obj/Debug/net7.0/5-eventful.csproj.AssemblyReference.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-delegates_events/5-eventful/obj/Debug/net7.0/5-eventful.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-delegates_events/5-eventful/obj/Debug/net7.0/5-eventful.AssemblyInfoInputs.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-delegates_events/5-eventful/obj/Debug/net7.0/5-eventful.AssemblyInfo.cs
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-delegates_events/5-eventful/obj/Debug/net7.0/5-eventful.csproj.CoreCompileInputs.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-delegates_events/5-eventful/obj/Debug/net7.0/5-eventful.dll
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-delegates_events/5-eventful/obj/Debug/net7.0/refint/5-eventful.dll
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-delegates_events/5-eventful/obj/Debug/net7.0/5-eventful.pdb
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-delegates_events/5-eventful/obj/Debug/net7.0/5-eventful.genruntimeconfig.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-delegates_events/5-eventful/obj/Debug/net7.0/ref/5-eventful.dll
