@@ -1,0 +1,15 @@
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-interfaces/1-user_interface/obj/Debug/net7.0/1-user_interface.csproj.AssemblyReference.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-interfaces/1-user_interface/obj/Debug/net7.0/1-user_interface.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-interfaces/1-user_interface/obj/Debug/net7.0/1-user_interface.AssemblyInfoInputs.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-interfaces/1-user_interface/obj/Debug/net7.0/1-user_interface.AssemblyInfo.cs
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-interfaces/1-user_interface/obj/Debug/net7.0/1-user_interface.csproj.CoreCompileInputs.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-interfaces/1-user_interface/bin/Debug/net7.0/1-user_interface
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-interfaces/1-user_interface/bin/Debug/net7.0/1-user_interface.deps.json
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-interfaces/1-user_interface/bin/Debug/net7.0/1-user_interface.runtimeconfig.json
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-interfaces/1-user_interface/bin/Debug/net7.0/1-user_interface.dll
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-interfaces/1-user_interface/bin/Debug/net7.0/1-user_interface.pdb
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-interfaces/1-user_interface/obj/Debug/net7.0/1-user_interface.dll
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-interfaces/1-user_interface/obj/Debug/net7.0/refint/1-user_interface.dll
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-interfaces/1-user_interface/obj/Debug/net7.0/1-user_interface.pdb
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-interfaces/1-user_interface/obj/Debug/net7.0/1-user_interface.genruntimeconfig.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-interfaces/1-user_interface/obj/Debug/net7.0/ref/1-user_interface.dll
