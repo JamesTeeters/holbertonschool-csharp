@@ -1,0 +1,15 @@
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-interfaces/4-keys/obj/Debug/net7.0/4-keys.csproj.AssemblyReference.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-interfaces/4-keys/obj/Debug/net7.0/4-keys.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-interfaces/4-keys/obj/Debug/net7.0/4-keys.AssemblyInfoInputs.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-interfaces/4-keys/obj/Debug/net7.0/4-keys.AssemblyInfo.cs
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-interfaces/4-keys/obj/Debug/net7.0/4-keys.csproj.CoreCompileInputs.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-interfaces/4-keys/bin/Debug/net7.0/4-keys
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-interfaces/4-keys/bin/Debug/net7.0/4-keys.deps.json
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-interfaces/4-keys/bin/Debug/net7.0/4-keys.runtimeconfig.json
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-interfaces/4-keys/bin/Debug/net7.0/4-keys.dll
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-interfaces/4-keys/bin/Debug/net7.0/4-keys.pdb
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-interfaces/4-keys/obj/Debug/net7.0/4-keys.dll
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-interfaces/4-keys/obj/Debug/net7.0/refint/4-keys.dll
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-interfaces/4-keys/obj/Debug/net7.0/4-keys.pdb
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-interfaces/4-keys/obj/Debug/net7.0/4-keys.genruntimeconfig.cache
+/mnt/c/Users/teete/VirtualBox VMs/hobertonVb/Holberton/holbertonschool-csharp/csharp-interfaces/4-keys/obj/Debug/net7.0/ref/4-keys.dll
