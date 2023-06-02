@@ -6,7 +6,7 @@ public abstract class Base
 
     public override string ToString()
     {
-        return name + "is a " + this.GetType();
+        return name + " is a " + this.GetType();
     }
 
 }
